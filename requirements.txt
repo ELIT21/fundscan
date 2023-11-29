@@ -1,0 +1,8 @@
+os
+codecs
+hashlib
+base58
+ecdsa
+threading
+requests
+futures
